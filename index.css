@@ -1,0 +1,26 @@
+
+h1{
+  text-shadow: 4px;
+}
+body{
+  text-align: center; 
+  background-color: antiquewhite;
+}
+.choice-button{
+  height: 100px;
+  width: 100px;
+  border: 15px;
+  border-color: rgb(148, 117, 76);
+  margin: 10px;
+  background-color: lightgreen;
+  border-radius: 50px;
+  cursor: pointer;
+}
+#reset{
+  background-color: burlywood;
+  border-radius: 20px;
+}
+
+.choice-image{
+  height: 75px;
+}
